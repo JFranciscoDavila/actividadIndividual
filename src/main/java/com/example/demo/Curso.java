@@ -12,6 +12,8 @@ public class Curso {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
 	
+	String titulo;
+	
 	public long getId() {
 		return id;
 	}
@@ -43,5 +45,5 @@ public class Curso {
 		return "Curso [id=" + id + ", titulo=" + titulo + "]";
 	}
 
-	String titulo;
+	
 }
