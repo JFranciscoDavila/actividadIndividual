@@ -998,3 +998,15 @@ insert into Curso (titulo) values ('Temp');
 insert into Curso (titulo) values ('Gembucket');
 insert into Curso (titulo) values ('Ronstring');
 insert into Curso (titulo) values ('Quo Lux');
+
+insert into curso_material (url, curso_id) values ('https://123-reg.co.uk');
+insert into curso_material (url, curso_id) values ('http://clickbank.net', 343);
+insert into curso_material (url, curso_id) values ('http://edublogs.org', 2);
+insert into curso_material (url, curso_id) values ('http://fc2.com', 486);
+insert into curso_material (url, curso_id) values ('http://plala.or.jp', 300);
+insert into curso_material (url, curso_id) values ('http://gravatar.com', 317);
+insert into curso_material (url, curso_id) values ('http://indiatimes.com', 639);
+insert into curso_material (url, curso_id) values ('https://etsy.com', 536);
+insert into curso_material (url, curso_id) values ('http://naver.com', 934);
+
+
